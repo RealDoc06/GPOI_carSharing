@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2023-11-07T20:52:14.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OxuZIvtPxJjqOymAE-qN" version="22.0.8" type="device">
+  <diagram name="Pagina-1" id="-R4bYLiCjbzOBgdAukKP">
+    <mxGraphModel dx="819" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z180EXEQg_o3Sqjs8IXQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z180EXEQg_o3Sqjs8IXQ-1" target="z180EXEQg_o3Sqjs8IXQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="135" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z180EXEQg_o3Sqjs8IXQ-1" value="Utente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z180EXEQg_o3Sqjs8IXQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z180EXEQg_o3Sqjs8IXQ-2" target="z180EXEQg_o3Sqjs8IXQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z180EXEQg_o3Sqjs8IXQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z180EXEQg_o3Sqjs8IXQ-2" target="z180EXEQg_o3Sqjs8IXQ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z180EXEQg_o3Sqjs8IXQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z180EXEQg_o3Sqjs8IXQ-2" target="z180EXEQg_o3Sqjs8IXQ-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="160" />
+              <mxPoint x="320" y="176" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z180EXEQg_o3Sqjs8IXQ-2" value="Amministratore" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z180EXEQg_o3Sqjs8IXQ-3" value="Visualizza lista&amp;nbsp;Auto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="50" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z180EXEQg_o3Sqjs8IXQ-4" value="Richiedere un&#39;auto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z180EXEQg_o3Sqjs8IXQ-5" value="Assegnare un&#39;auto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z180EXEQg_o3Sqjs8IXQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z180EXEQg_o3Sqjs8IXQ-1" target="z180EXEQg_o3Sqjs8IXQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
